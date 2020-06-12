@@ -1,6 +1,6 @@
 {
     "VoilaConfiguration": {
         "enable_nbextensions": true,
-        "template": "vuetify-default",
+        "template": "vuetify-default"
     }
 }
