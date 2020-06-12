@@ -1,8 +1,7 @@
 vaex-core>=2.0.3
 vaex-server>=0.3.1
-vaex-jupyter>=0.5.1
+vaex-jupyter>=0.5.2
 voila
 voila-vuetify
-xarray
 IPython>=7
 bqplot==0.12.11
