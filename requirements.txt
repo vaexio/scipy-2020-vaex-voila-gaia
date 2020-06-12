@@ -1,0 +1,5 @@
+vaex-core>=2.0.3
+vaex-server>=0.3.1
+voila
+voila-vuetify
+xarray
